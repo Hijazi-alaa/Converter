@@ -1,0 +1,16 @@
+body {
+background-color: beige;
+}
+
+.btn:hover {
+    background-color: rgb(111, 204, 111);
+}
+
+.input-css {
+    border: solid rgb(197, 126, 126) 2px;
+}
+
+.uni {
+    font-size: x-large;
+    font-weight: 800;
+}
